@@ -1,4 +1,5 @@
 require 'pry'
+"hi"
 
 #########################
 # Data for the newsletter
